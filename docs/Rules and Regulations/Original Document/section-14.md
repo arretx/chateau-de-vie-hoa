@@ -1,0 +1,2 @@
+# SECTION XIV: NOISE AND DISTURBANCES
+  a) No noxious or offensive activity including, without limitation, the playing or use of loud and unreasonable TV, stereo and other audio equipment shall be permitted in any unit, patio or common area, which may be or become an annoyance nuisance or disturbance which interferes with the quiet enjoyment of adjoining units or any other owners or tenants within the community.

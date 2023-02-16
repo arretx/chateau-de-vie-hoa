@@ -1,0 +1,4 @@
+# SECTION II: CORPORATION MEETINGS
+  1. Regular board meetings are held on the third Wednesday of the {++every++} month at 6:30 p.m. in the Clubhouse unless otherwise posted. All meetings are open to the membership. Special meetings may be called by the President or by request of the majority of the membership.
+  1. The annual meeting of the membership will be held in February or March as determined by the Board of Directors. Special meetings may be called by the President or upon petition by a majority of the membership.
+  1. {--Each member of the Association--}{++ Association members in good standing ++} shall be entitled to one vote per {--each--} lot owned {++ as outlined in Section X, item X ++} of the {--CCRs--}{++CC&Rs++} {>>There should be a reference to the exact location in the CC&Rs<<}.

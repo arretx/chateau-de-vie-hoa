@@ -1,0 +1,2 @@
+# SECTION XI: UNAUTHORIZED ACTS
+Vandalism and mischievous acts cost owners money and any person observed in such behavior will be billed for the expenses to cover repairs or replacement and also receive a fine. Owner(s) shall be responsible for damage done by tenant(s), minors, guests or vendors hired by owner(s). Report such activity to Management. No unauthorized persons are allowed on any roof without approval. 

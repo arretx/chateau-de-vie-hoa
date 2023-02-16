@@ -1,0 +1,2 @@
+# SECTION VII: PETS
+Dogs, cats and other household pets may be kept, provided they are not kept, bred or maintained for commercial use. Residents are urged to walk pets off the premises and all pet droppings must be picked up upon deposit. Failure to do so will result in a fine. Scottsdale and the Association both have a leash law and no pets will be permitted to roam free. Barking dogs constitute a nuisance and will be reported to the City of Scottsdale. The Association may also fine the owner for noise limiting the “quiet enjoyment” of the community.
