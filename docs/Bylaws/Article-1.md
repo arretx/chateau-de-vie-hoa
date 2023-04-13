@@ -1,5 +1,5 @@
 ---
-comments: true
+comments: false
 ---
 
 # ARTICLE I: OFFICES

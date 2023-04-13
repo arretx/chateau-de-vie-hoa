@@ -1,5 +1,5 @@
 ---
-comments: true
+comments: false
 ---
 
 # ARTICLE IV: PROPERTY RIGHTS, RIGHTS OF ENJOYMENT

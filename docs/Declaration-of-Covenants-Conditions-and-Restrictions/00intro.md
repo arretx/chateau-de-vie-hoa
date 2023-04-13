@@ -1,3 +1,7 @@
+---
+title: INTRODUCTION
+---
+
 # Intro
 
 THIS DECLARATION, made on the date hereinafter set forth by ARIZONA TITLE INSURANCE AND TRUST COMPANY, as Trustee, hereinafter referred to as “Declarant”.

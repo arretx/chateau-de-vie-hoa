@@ -1,5 +1,5 @@
 ---
-comments: true
+comments: false
 ---
 
 # SECTION I: BOARD OF DIRECTORS

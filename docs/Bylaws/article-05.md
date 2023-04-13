@@ -1,5 +1,5 @@
 ---
-comments: true
+comments: false
 ---
 
 # ARTICLE V: MEMBERS OF THE ASSOCIATION
@@ -14,7 +14,7 @@ Special meetings of the members may be called at any time by the President or by
 Written notice of each meeting of the members shall be given by, or at the direction of, the Secretary or person authorized to call the meeting, by mailing a copy of such notice, postage prepaid, at least 15 days before such meeting to each member entitled to vote thereat, addressed to the member’s address last appearing on the books of the Association, or supplied by such member to the Association for the purpose of notice. Such notice shall specify the place, day and hour of the meeting, and, in the case of a special meeting, the purpose of the meeting.
 
 ## Section 4: Quorum
-The presence, either in person or by proxy, of at least ten percent (10%) of each class of Members of the Association of record shall constitute a quorum of the Members of the Association for all purposes unless the representation of a larger group shall be required by law, by the Declaration of Covenants, Conditions and Restrictions, by the Articles of Incorporation, or by these Bylaws, and in that event, representation of the number so required shall constitute a quorum.
+The presence, either in person or by proxy, of at least ten percent (10%) of each class of Members of the Association of record shall constitute a quorum of the Members of the Association for all purposes unless the representation of a larger group shall be required by law, by the Declaration of Covenants, Conditions and Restrictions, by the <a href="https://jongriffith.com/hoa/Articles%20of%20Incorporation/01-Introduction/" target="_blank">Articles of Incorporation</a>, or by these Bylaws, and in that event, representation of the number so required shall constitute a quorum.
 
 ## Section 5: Voting Rights
 Each Class A member of the Association being present in person or by proxy shall be entitled to one vote for each townhouse unit owned by said member. Each Class B member of the Association being present in person or by proxy shall be entitled to three votes for each townhouse unit owned by said member.
