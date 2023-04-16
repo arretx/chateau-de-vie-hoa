@@ -1,8 +1,9 @@
 ---
 comments: false
 title: Introduction
-date: 2023-04-13 12:00:00
+date: 2023-03-17 12:00:00
 ---
+# Articles of Incorporation
 !!! Note "Update 3/17/23"
     The Articles of Incorporation reproduced here have not yet been proof-read for typing errors.  - 3/15/2023
 

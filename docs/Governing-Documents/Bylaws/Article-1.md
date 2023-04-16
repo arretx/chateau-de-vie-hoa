@@ -1,5 +1,7 @@
 ---
 comments: false
+tags:
+  - location
 ---
 
 # ARTICLE I: OFFICES

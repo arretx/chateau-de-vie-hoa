@@ -14,20 +14,18 @@ Welcome to an unofficial Chateau De Vie VI Subdivision Resource.
 
 The four primary documents that govern the Association have been re-typed into a format that's easily searchable from the search field at the top of the site.  They are:
 
-  * (Articles of Incorporation)[]
-  * Covenants, Conditions, and Restrictions
-  * Bylaws
-  * Rules and Regulations
+  * [Articles of Incorporation](Governing-Documents/Articles-of-Incorporation/01-Introduction.md)
+  * [Covenants, Conditions, and Restrictions](Governing-Documents/Declaration-of-Covenants-Conditions-and-Restrictions/00intro.md)
+  * [Bylaws](Governing-Documents/Bylaws/Article-1.md)
+  * [Rules and Regulations](Governing-Documents/Rules-and-Regulations/Original-Document/section-01.md)
 
 !!! note
-    All of these documents are public record and can be found at the Maricopa.gov website using the <a href="https://recorder.maricopa.gov/recdocdata/" target="_blank">Recorded Document Search</a>.
+    With the exception of the Rules and Regulations, all other documents are public record and can be found at the Maricopa.gov website using the <a href="https://recorder.maricopa.gov/recdocdata/" target="_blank">Recorded Document Search</a>.
 
 In addition to these documents, various other materials can be published here that are helpful to the community.
 
 ## Disclaimers
 
-This site was created in our free time at our own expense.  We are not attorneys and we are not providing legal advice, nor legal interpretation of the governing documents. This site is for informational purposes only and is not considered the official source for such information, although I'll do my best to make sure the information is as up to date as is available publicly.
+This site was created in my free time at my own expense.  I am not an attorney and am not providing legal advice, nor legal interpretation of the governing documents. This site is for informational purposes only and is not currently considered an official source for such information, although I'll do my best to make sure the information is as up to date as possible.
 
-Outside of the official unofficial documents, any opinions expressed on this website, are those of the website owner only.  They do not purport to reflect the opinions or views of the Chateau De Vie Six Homeowner's Association Members (apart from the authors), Elected Officials of the Association, Declarants, Neighbors, or Board of Directors - past, present, nor future.
-
-Any questions about this site should be directed to Jon Griffith
+If you notice something that's incorrect, please let me know by messaging me through <a href="https://discord.gg/UQjB6zhhdy" target="_blank">Discord</a>.
