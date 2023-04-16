@@ -1,6 +1,8 @@
 ---
 title: Current Board Members
 date: 2023-04-15
+tags:
+  - board
 ---
 Role | Name | Contact 
 --- | --- | ---
@@ -13,12 +15,6 @@ Director | Jon Griffith | |
 Director | Jen Cordovana | |
 Director | Ian | |
 Director | Amanda Salmon | | 
-
-Location | Brand | Color | Sheen |
------------- | ------------- | ------------ | -----------
-Body | Dunn Edwards | Whole Wheat | Exterior Flat
-Body | Dunn Edwards [Sparta Shield](https://www.dunnedwards.com/pros/blog/this-is-dot-dot-dot-spartashield-r/) | Stonish Beige | Exterior Flat
-Trim | Dunn Edwards | Stockhorse | Exterior Semi Gloss
 
 ### Person Name
 ![Image](../media/placeholder-image-person-jpg.jpg){ width=200, align=right }
