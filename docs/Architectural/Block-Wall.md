@@ -13,7 +13,7 @@ So what do we actually need from the homeowner?
 
 ## What Information Do We Need From the Owner
 
-We need to knows:
+We need to know:
 
 1. Which unit is upgrading.
 1. When their proposed start date is.
