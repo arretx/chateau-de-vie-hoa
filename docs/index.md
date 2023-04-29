@@ -17,7 +17,7 @@ The four primary documents that govern the Association have been re-typed into a
   * [Articles of Incorporation](Governing-Documents/Articles-of-Incorporation/01-Introduction.md)
   * [Covenants, Conditions, and Restrictions](Governing-Documents/Declaration-of-Covenants-Conditions-and-Restrictions/00intro.md)
   * [Bylaws](Governing-Documents/Bylaws/Article-1.md)
-  * [Rules and Regulations](Governing-Documents/Rules-and-Regulations/Original-Document/section-01.md)
+  * [Rules and Regulations](Governing-Documents/Rules-and-Regulations/section-01.md)
 
 !!! note
     With the exception of the Rules and Regulations, all other documents are public record and can be found at the Maricopa.gov website using the <a href="https://recorder.maricopa.gov/recdocdata/" target="_blank">Recorded Document Search</a>.
