@@ -1,5 +1,5 @@
 ---
-title: "Thoughts From a Board Member Part 2: Information Technology"
+title: "Thoughts From a Board Member, Episode 2: Information Technology"
 date: 2023-05-12 09:35:00
 tags:
   - electronics
